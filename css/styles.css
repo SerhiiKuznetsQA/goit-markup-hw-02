@@ -7,6 +7,246 @@ body{
 a{
     text-decoration: none;
 }
-Ul, ol {
+ul {
     list-style: none;
+}
+/*-------HEADER----------*/
+.header {
+    
+}
+
+.navigation {}
+
+.header-logo {
+        font-family: Raleway, sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color:#2E2F42;
+}
+
+.logo-part {
+  color: #4D5AE5;
+}
+
+.navigation-list {
+
+}
+
+.navigation-item {
+    color:#2E2F42;
+}
+
+.navigation-item-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.navigation-item-link:hover ,
+.navigation-item-link:focus{
+    color: #404BBF;
+}
+
+
+
+.header-contacts {
+    font-style: normal;
+    
+}
+
+.header-contatcs-list {
+
+}
+
+
+
+.header-contacts-item {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.header-contacts-link {
+    color: #434455;
+}
+
+.header-contacts-link:hover,
+.header-contacts-link:focus {
+    color: #404BBF;
+
+}
+
+/*-------HERO-SECTION----------*/
+
+.hero-section {
+    background-color:#2E2F42 ;
+}
+
+.hero-title {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color:#FFFFFF ;
+}
+
+.order-btn {
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background-color: #4D5AE5;
+        cursor: pointer;
+}
+.order-btn:hover{
+    background-color:#404BBF;
+}
+
+/*-------Opportunitie-SECTION----------*/
+.opportunities {}
+
+.opportunities-title {
+    display: none;
+}
+
+.opportunities-list {}
+
+.opportunities-item {}
+
+.opportunities-subtitle {
+        font-weight: 500;
+        font-size: 20px; 
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.opportunities-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/*-------our-team----------*/
+.our-team {
+    background-color: #F4F4FD;
+}
+
+.our-team-title {
+    font-family: Raleway, sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2E2F42;
+}
+
+.our-team-list {
+
+}
+
+.our-team-item {
+        box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+        background-color: #FFFFFF;
+}
+
+.our-team-img {
+}
+
+.our-team-subtitle {
+        font-weight: 500;
+        font-size: 20px; 
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2E2F42;
+}
+
+.our-team-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+/*-------Portfolio----------*/
+.portfolio-title {
+    font-family: Raleway , sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+    color:#2E2F42;
+}
+
+.protfolio-list {
+    background-color: #FFFFFF;
+}
+
+.portfolio-item {
+    
+}
+
+.portfolio-picture {
+        width: 360px;
+        height: 300px;
+}
+
+.portfolio-subtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color:#2E2F42;
+}
+
+.portfolio-description {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/*-------Footer----------*/
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-logo{
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}
+
+
+.footer-logo-part{
+    font-family: Raleway, sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+}
+
+
+.footer-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
 }
