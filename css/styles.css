@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto' , sans-serif;
-    background-color:#fff;
-    color:#434455 ;
+   color:#434455 ;
+    background-color: #fff;
    
 }
 a{
@@ -18,7 +18,7 @@ ul {
 .navigation {}
 
 .header-logo {
-        font-family: Raleway, sans-serif;
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.16;
@@ -76,7 +76,7 @@ ul {
 
 .header-contacts-link:hover,
 .header-contacts-link:focus {
-    color: #404BBF;
+color: #404BBF;
 
 }
 
@@ -87,6 +87,7 @@ ul {
 }
 
 .hero-title {
+    font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07143;
@@ -139,7 +140,7 @@ ul {
 }
 
 .our-team-title {
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11111;
@@ -179,7 +180,7 @@ ul {
 }
 /*-------Portfolio----------*/
 .portfolio-title {
-    font-family: Raleway , sans-serif;
+    font-family: 'Raleway' , sans-serif;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11111;
@@ -222,7 +223,7 @@ ul {
 }
 
 .footer-logo{
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16667;
@@ -233,7 +234,7 @@ ul {
 
 
 .footer-logo-part{
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.16667;
